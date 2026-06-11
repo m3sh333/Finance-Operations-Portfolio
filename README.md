@@ -8,7 +8,7 @@ Personal projects developed as NTU Business Management & Accounting & Finance st
 
 ## Projects
 
-* **Operations Forecasting Model:** 3-statement forecasting and scenario optimisation for mid-market units. Quantified efficiency gains.
+* **Operations Forecasting Model:** 3-tab Excel model forecasting revenue growth, cost optimisation and efficiency gains over a 3-year horizon. Projected £127k cumulative efficiency gain by Year 3.
   * [Click here to view interactive Excel model](./Operations_Forecasting_Model_Meshack_Offei-Essah_NTU_2025.xlsx)
 * **LBO / Buyout Framework:** Leveraged buyout model with IRR and sensitivity analysis for mock deals.
 * **Process Optimisation Case:** Based on event operations experience — identified integration pathways and cost savings.
